@@ -1,0 +1,26 @@
+a{
+    margin-left: 50px;
+    color:black;
+    font-size: 30px;
+    text-decoration: none;
+}
+img{
+    height: 50px;
+    width: auto;
+}
+table{
+    border-collapse: collapse;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 50px;
+    
+}
+td, th{
+    border: 1px solid black;
+    padding: 10px;
+}
+ul{
+    list-style-type: square;
+}
+iframe{
+    border: 1px;
+}
